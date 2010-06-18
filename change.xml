@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<change xmlns="http://www.rbs.fr/schema/change-component/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.rbs.fr/schema/change-component/1.0 http://www.rbschange.fr/static/schema/change-component/1.0.xsd">
+  <name>XML_RPC2</name>
+  <type>lib-pear</type>
+  <version>1.0.5</version>
+  <description>XML_RPC2</description>
+  <license>os</license>
+  <repository>public</repository>
+  <dependencies>
+    <dependency>
+      <name>lib-pear/Cache_Lite</name>
+      <versions>
+        <version>1.7.8</version>
+      </versions>
+    </dependency>
+  </dependencies>
+</change>
